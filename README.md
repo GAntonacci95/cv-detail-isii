@@ -1,6 +1,6 @@
-# cv-detail-isii (2009 - 2014)
+# cv-detail-isii
 
-## EN 🇬🇧
+## EN 🇬🇧 (2009 - 2014)
 
 ### A few toy projects
 
@@ -9,7 +9,7 @@
 - A synchronous blocking tonal chat example [here](https://github.com/GAntonacci95/sync_pc_speech);
 - A windows spyware capturing screen and keyboard via polled screenshots and hooks;
 
-## IT 🇮🇹
+## IT 🇮🇹 (2009 - 2014)
 
 ### Alcuni progettini giocattolo
 
